@@ -13,8 +13,6 @@ for turtle_index in range(0, 5):  # Changed the range to 5 to match the length o
     tim.color(colors[turtle_index])
     tim.penup()
     tim.goto(x=-240, y=y_positions[turtle_index])
-
-ì u
 # Removed screen.exitonclick()
 screen.exitonclick()
 
